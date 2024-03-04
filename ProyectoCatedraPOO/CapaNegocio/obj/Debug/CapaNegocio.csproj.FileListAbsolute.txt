@@ -1,0 +1,11 @@
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\CapaNegocio\obj\Debug\CapaNegocio.pdb

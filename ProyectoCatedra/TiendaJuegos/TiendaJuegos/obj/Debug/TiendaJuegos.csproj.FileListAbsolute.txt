@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\bin\Debug\TiendaJuegos.exe.config
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\bin\Debug\TiendaJuegos.exe
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\bin\Debug\TiendaJuegos.pdb
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.AdminJuegos.resources
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.Properties.Resources.resources
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.exe
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.pdb
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.Login.resources
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.MenuAdmin.resources
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.MenuClientes.resources
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.RegistroClientes.resources
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.ComprarJuegos.resources
+C:\Users\victo\source\repos\TiendaJuegos\TiendaJuegos\obj\Debug\TiendaJuegos.MiCuenta.resources

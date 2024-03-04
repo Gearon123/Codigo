@@ -1,0 +1,11 @@
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ProyectoCatedraPOO.exe.config
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ProyectoCatedraPOO.exe
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ProyectoCatedraPOO.pdb
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.Form1.resources
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.Properties.Resources.resources
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.exe
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.pdb

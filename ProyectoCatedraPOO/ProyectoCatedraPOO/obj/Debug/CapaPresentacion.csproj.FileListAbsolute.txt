@@ -1,0 +1,91 @@
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ProyectoCatedraPOO.exe.config
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ProyectoCatedraPOO.exe
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ProyectoCatedraPOO.pdb
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.Form1.resources
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.Properties.Resources.resources
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.exe
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.pdb
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\CapaEntidad.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\CapaNegocio.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\CapaEntidad.pdb
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\CapaNegocio.pdb
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.Login.resources
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\CapaDatos.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\CapaDatos.pdb
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.FrmMantenimiento.resources
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.FrmUsuario.resources
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.FrmCategoria.resources
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.FrmJuego.resources
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ClosedXML.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\Irony.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Buffers.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.IO.Packaging.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Memory.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\XLParser.dll
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ClosedXML.xml
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Buffers.xml
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.IO.Packaging.xml
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Memory.xml
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.FrmVentas.resources
+C:\Users\Mario\Desktop\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.MiniJuegos.resources
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ProyectoCatedraPOO.exe.config
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ProyectoCatedraPOO.exe
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ProyectoCatedraPOO.pdb
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\CapaEntidad.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ClosedXML.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\Irony.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\SixLabors.Fonts.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.IO.Packaging.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\XLParser.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\CapaEntidad.pdb
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ClosedXML.xml
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\SixLabors.Fonts.xml
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.IO.Packaging.xml
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.Form1.resources
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.FrmCategoria.resources
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.FrmJuego.resources
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.FrmMantenimiento.resources
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.FrmUsuario.resources
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.FrmVentas.resources
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.Login.resources
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.MiniJuegos.resources
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.Properties.Resources.resources
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.exe
+C:\Users\User\Desktop\Proyecto poo\ProyectoCatedraPOO\ProyectoCatedraPOO\obj\Debug\ProyectoCatedraPOO.pdb
